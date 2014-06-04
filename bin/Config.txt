@@ -1,0 +1,6 @@
+5
+0 net31.utdallas.edu 9043 # Host name and port number of node 0
+1 net32.utdallas.edu 9044 # Host name and port number of node 1
+2 net33.utdallas.edu 9045 # Host name and port number of node 2
+3 net34.utdallas.edu 9046 # Host name and port number of node 2
+4 net35.utdallas.edu 9047 # Host name and port number of node 2
